@@ -22,13 +22,13 @@
 ---
 steamPage:
     # This is the short text appearing on the steam page
-    shortText: shapez is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.
+    shortText: shapez on mäng, kus tuleb ehitada tehaseid, et automatiseerida järjest keerulisemate kujundite loomist ja töötlemist lõpmatult laieneval kaardil.
 
     # This is the text shown above the Discord link
-    discordLinkShort: Official Discord
+    discordLinkShort: Ametlik Discord
 
     intro: >-
-        Do you like automation games? Then you are in the right place!
+        Kas sulle meeldivad automatiseerimismängid? Sel juhul oled õiges kohas!
 
         shapez is a relaxed game in which you have to build factories for the automated production of geometric shapes. As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
 
@@ -36,7 +36,7 @@ steamPage:
 
         Buying the game on Steam gives you access to the full version, but you can also play a demo at shapez first and decide later!
 
-    what_others_say: What people say about shapez
+    what_others_say: Mida inimesed räägivad shapez'ist
 
     nothernlion_comment: >-
         This game is great - I'm having a wonderful time playing, and time has flown by.
@@ -46,20 +46,20 @@ steamPage:
         This game has stolen my life and I don't want it back. Very chill factory game that won't let me stop making my lines more efficient.
 
 global:
-    loading: Loading
-    error: Error
-    loggingIn: Logging in
+    loading: Laadin
+    error: Viga
+    loggingIn: Login sisse
 
-    loadingResources: Downloading additional resources (<percentage> %)
+    loadingResources: Laadin alla lisaressursse (<percentage> %)
 
     # How big numbers are rendered, e.g. "10,000"
-    thousandsDivider: ","
+    thousandsDivider: " "
 
     # What symbol to use to separate the integer part from the fractional part of a number, e.g. "0.4"
-    decimalSeparator: "."
+    decimalSeparator: ","
 
     discount: -<percentage>%
-    discountSummerSale: "SPECIAL PROMOTION! Offer ends 7 July"
+    discountSummerSale: "ERIPAKKUMINE! Pakkumine lõppeb 7. juulil"
 
     # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.
     suffix:
@@ -69,25 +69,25 @@ global:
         trillions: T
 
     # Shown for infinitely big numbers
-    infinite: inf
+    infinite: ∞
 
     time:
         # Used for formatting past time dates
-        oneSecondAgo: one second ago
-        xSecondsAgo: <x> seconds ago
-        oneMinuteAgo: one minute ago
-        xMinutesAgo: <x> minutes ago
-        oneHourAgo: one hour ago
-        xHoursAgo: <x> hours ago
-        oneDayAgo: one day ago
-        xDaysAgo: <x> days ago
+        oneSecondAgo: üks sekund tagasi
+        xSecondsAgo: <x> sekundit tagasi
+        oneMinuteAgo: üks minut tagasi
+        xMinutesAgo: <x> minutit tagasi
+        oneHourAgo: üks tund tagasi
+        xHoursAgo: <x> tundi tagasi
+        oneDayAgo: üks päev tagasi
+        xDaysAgo: <x> päeva tagasi
 
         # Short formats for times, e.g. '5h 23m'
         secondsShort: <seconds>s
         minutesAndSecondsShort: <minutes>m <seconds>s
         hoursAndMinutesShort: <hours>h <minutes>m
 
-        xMinutes: <x> minutes
+        xMinutes: <x> minutit
 
     keys:
         tab: TAB
@@ -95,7 +95,7 @@ global:
         alt: ALT
         escape: ESC
         shift: SHIFT
-        space: SPACE
+        space: TÜHIK
 
 demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
@@ -123,98 +123,98 @@ demoBanners:
     untilEndOfDemo: Until end of demo
 
 mainMenu:
-    play: Play
-    continue: Continue
-    newGame: New Game
-    changelog: Changelog
+    play: Mängi
+    continue: Jätka
+    newGame: Uus mäng
+    changelog: Muudatuste logi
     subreddit: Reddit
-    importSavegame: Import
-    openSourceHint: This game is open source!
-    discordLink: Official Discord Server
-    helpTranslate: Help translate!
-    madeBy: Made by <author-link>
-    noActiveSavegames: No active savegames found - Click play to start a new game!
+    importSavegame: Impordi
+    openSourceHint: Selle mängu kood on avatud!
+    discordLink: Ametlik Discord Server
+    helpTranslate: Aita tõlkida!
+    madeBy: Loodud <author-link> poolt
+    noActiveSavegames: Aktiivseid salvestusi ei leitud - klõpsa, et alustad uut mängu!
 
-    playFullVersionV2: Bought shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
+    playFullVersionV2: Ostsid shapez Steam'is? Mängi täisversiooni oma brauseris!
+    playFullVersionStandalone: Nüüd saad täisversiooni mängida ka brauseris!
+    playingFullVersion: Mängid täisversiooni!
+    logout: Logi välja
 
     # This is shown when using firefox and other browsers which are not supported.
     browserWarning: >-
         Sorry, but the game is known to run slowly on your browser! Get the full version or download Google Chrome for the full experience.
 
-    savegameLevel: Level <x>
-    savegameLevelUnknown: Unknown Level
-    savegameUnnamed: Unnamed
-    puzzleMode: Puzzle Mode
-    back: Back
+    savegameLevel: Tase <x>
+    savegameLevelUnknown: Teadmata tase
+    savegameUnnamed: Nimetu
+    puzzleMode: Mõistatuse režiim
+    back: Tagasi
 
     puzzleDlcText: >-
-        Do you enjoy compacting and optimizing factories?
-        Get the Puzzle DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+        Kas sulle meeldib tehaseid optimeeriga ja kompaktsemaks teha?
+        Laagi alla Puzzle DLC Steam'is, et veel paremini aega viita!
+    puzzleDlcWishlist: Lisa soovinimekirja!
+    puzzleDlcViewNow: Vaata DLC
 
     mods:
-        title: Active Mods
+        title: Aktiivsed Modid
         warningPuzzleDLC: >-
-            Playing the Puzzle DLC is not possible with mods. Please disable all mods to play the DLC.
+            Puzzle DLC mängimine pole võimalik, kui modid on aktiivsed. Keela kõik modid, et DLC'd mängida.
 
 puzzleMenu:
-    play: Play
+    play: Mängi
     edit: Edit
-    title: Puzzle Mode
-    createPuzzle: Create Puzzle
-    loadPuzzle: Load
-    reviewPuzzle: Review & Publish
-    validatingPuzzle: Validating Puzzle
+    title: Mõistatuse režiim
+    createPuzzle: Loo mõistatud
+    loadPuzzle: Laadi
+    reviewPuzzle: Vaata üle ja avalda
+    validatingPuzzle: Valideerin mõistatust
     submittingPuzzle: Submitting Puzzle
     noPuzzles: There are currently no puzzles in this section.
     dlcHint: Purchased the DLC already? Make sure it is activated by right clicking shapez in your library, selecting Properties > DLCs.
 
     categories:
-        levels: Levels
-        new: New
+        levels: Tasemed
+        new: Uus
         top-rated: Top Rated
         mine: Created
-        easy: Easy
-        medium: Medium
-        hard: Hard
-        completed: Completed
-        official: Tutorial
-        trending: Trending today
-        trending-weekly: Trending weekly
-        categories: Categories
-        difficulties: By Difficulty
-        account: My Puzzles
-        search: Search
+        easy: Lihtne
+        medium: Keskmine
+        hard: Raske
+        completed: Lahendatud
+        official: Õpetus
+        trending: Täna populaarsed
+        trending-weekly: Sel nädalal populaarsed
+        categories: Kategooriad
+        difficulties: Raskusastme järgi
+        account: Minu mõistatused
+        search: Otsi
 
     search:
-        action: Search
-        placeholder: Enter a puzzle or author name
-        includeCompleted: Include Completed
+        action: Otsi
+        placeholder: Sisesta mõistatuse või autori nimi
+        includeCompleted: Kaasa lahendatud
 
         difficulties:
-            any: Any Difficulty
-            easy: Easy
-            medium: Medium
-            hard: Hard
+            any: Kõik raskusastmed
+            easy: Lihtne
+            medium: Keskmine
+            hard: Raske
 
         durations:
-            any: Any Duration
-            short: Short (< 2 min)
-            medium: Normal
-            long: Long (> 10 min)
+            any: Kõik kestused
+            short: Lühike (< 2 min)
+            medium: Normaalne
+            long: Pikk (> 10 min)
 
     difficulties:
-        easy: Easy
-        medium: Medium
-        hard: Hard
-        unknown: Unrated
+        easy: Lihtne
+        medium: Keskmine
+        hard: Raske
+        unknown: Hindamata
 
     validation:
-        title: Invalid Puzzle
+        title: Vigane mõistatus
         noProducers: Please place a Constant Producer!
         noGoalAcceptors: Please place a Goal Acceptor!
         goalAcceptorNoItem: >-
@@ -229,66 +229,66 @@ puzzleMenu:
 dialogs:
     buttons:
         ok: OK
-        delete: Delete
-        cancel: Cancel
-        later: Later
-        restart: Restart
-        reset: Reset
-        getStandalone: Get on Steam
-        deleteGame: I know what I am doing
-        viewUpdate: View Update
+        delete: Kustuta
+        cancel: Tühista
+        later: Hiljem
+        restart: Taaskäivita
+        reset: Lähtesta
+        getStandalone: Hangi Steam'is
+        deleteGame: Ma tean, mida teen
+        viewUpdate: Vaata värskendust
         showUpgrades: Show Upgrades
         showKeybindings: Show Keybindings
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        retry: Proovi uuesti
+        continue: Jätka
+        playOffline: Mängi ilma võrguühenduseta
 
     importSavegameError:
-        title: Import Error
+        title: Viga importimisel
         text: >-
-            Failed to import your savegame:
+            Sinu mängu salvestuse importimine ebaõnnestus:
 
     importSavegameSuccess:
-        title: Savegame Imported
+        title: Mängu salvestus imporditud
         text: >-
-            Your savegame has been successfully imported.
+            Sinu mängu salvestus on edukalt imporditud.
 
     gameLoadFailure:
-        title: Game is broken
+        title: Mäng on katki
         text: >-
-            Failed to load your savegame:
+            Sinu mängu salvestuse laadimine ebaõnnestus:
 
     confirmSavegameDelete:
-        title: Confirm deletion
+        title: Kinnita kustutamine
         text: >-
-            Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br>
-            This can not be undone!
+            Oled sa kindl, et soovid seda mängu salvestust kustutada?<br><br>
+            '<savegameName>' tasemel <savegameLevel><br><br>
+            Seda tegevust ei saa tagasi võtta!
 
     savegameDeletionError:
-        title: Failed to delete
+        title: Kustutamine ebaõnnestus
         text: >-
-            Failed to delete the savegame:
+            Mängu salvestuse kustutamine ebaõnnestus:
 
     restartRequired:
-        title: Restart required
+        title: Taaskäivitamist on vaja
         text: >-
-            You need to restart the game to apply the settings.
+            Sätete rakendamiseks pead mängu taaskäivitama.
 
     editKeybinding:
-        title: Change Keybinding
-        desc: Press the key or mouse button you want to assign, or escape to cancel.
+        title: Muuda klahvikombinatsioone
+        desc: Vajuta klahvi või hiirenuppu, mida soovid omistada või vajuta ECS, et tühistada.
 
     resetKeybindingsConfirmation:
-        title: Reset keybindings
-        desc: This will reset all keybindings to their default values. Please confirm.
+        title: Lähtesta klahvikombinatsioonid
+        desc: Lähtesta kõik klahvikombinatsioonid vaikimisi olekusse. Palun kinnita.
 
     keybindingsResetOk:
-        title: Keybindings reset
-        desc: All keybindings have been reset to their defaults values!
+        title: Klahvikombinatsioonid lähtestatud
+        desc: Kõik klahvikombinatsioonid on lähtestatud vaikimisi olekusse!
 
     featureRestriction:
-        title: Demo Version
+        title: Demoversioon
         desc: You tried to access a feature (<feature>) which is not available in the demo. Consider getting the full version on Steam for the best experience!
 
     oneSavegameLimit:
@@ -307,37 +307,37 @@ dialogs:
             The upgrades tab can be found on the top right corner of the screen.
 
     massDeleteConfirm:
-        title: Confirm delete
+        title: Kinnita kustutamine
         desc: >-
-            You are deleting a lot of buildings (<count> to be exact)! Are you sure you want to do this?
+            Üritad kustutada palju ehitisi (<count> kui täpne olla)! Oled sa kindel, et soovid seda?
 
     massCutConfirm:
-        title: Confirm cut
+        title: Kinnita lõikamine
         desc: >-
-            You are cutting a lot of buildings (<count> to be exact)! Are you sure you want to do this?
+            Üritad lõigata palju ehitisi (<count> kui täpne olla)! Oled sa kindel, et soovid seda?
 
     massCutInsufficientConfirm:
-        title: Confirm cut
+        title: Kinnita lõikamine
         desc: >-
-            You can not afford to paste this area! Are you sure you want to cut it?
+            Sa ei saa lubada endale selle ala kleepimist! Oled sa kindel, et soovid seda lõigata?
 
     blueprintsNotUnlocked:
-        title: Not unlocked yet
+        title: Lukus alles
         desc: >-
-            Complete level 12 to unlock Blueprints!
+            Jooniste lahtilukustamiseks lõpeta tase 12!
 
     keybindingsIntroduction:
-        title: Useful keybindings
+        title: Kasulikud klahvid
         desc: >-
-            This game has a lot of keybindings which make it easier to build big factories.
-            Here are a few, but be sure to <strong>check out the keybindings</strong>!<br><br>
-            <code class='keybinding'>CTRL</code> + Drag: Select an area.<br>
-            <code class='keybinding'>SHIFT</code>: Hold to place multiple of one building.<br>
-            <code class='keybinding'>ALT</code>: Invert orientation of placed belts.<br>
+            Selles mängus on palju klahvikombinatsioone, mis muudavad suurte tehaste ehitamise lihtsamaks.
+            Siin on mõned näited, aga kindlasti vaata ka <strong>klahvikombinatsioonide lehele</strong>!<br><br>
+            <code class='keybinding'>CTRL</code> + lohista: Vali ala.<br>
+            <code class='keybinding'>SHIFT</code>: Hoia all, et ehitisest mitut koopiat paigutada.<br>
+            <code class='keybinding'>ALT</code>: Muuda paigutatava konveieri suunda.<br>
 
     createMarker:
-        title: New Marker
-        titleEdit: Edit Marker
+        title: Uus marker
+        titleEdit: Muuda markerit
         desc: Give it a meaningful name, you can also include a <strong>short key</strong> of a shape (Which you can generate <link>here</link>)
 
     editSignal:
@@ -369,9 +369,9 @@ dialogs:
         desc: There is a tutorial video available for this level, but it is only available in English. Would you like to watch it?
 
     puzzleLoadFailed:
-        title: Puzzles failed to load
+        title: Mõistatuste laadimine ebaõnnestus
         desc: >-
-            Unfortunately the puzzles could not be loaded:
+            Kahjuks mõistatuste laadimine ebaõnnestus:
 
     submitPuzzle:
         title: Submit Puzzle
@@ -387,7 +387,7 @@ dialogs:
         desc: You can't make the zone any smaller, because then some buildings would be outside the zone.
 
     puzzleLoadError:
-        title: Bad Puzzle
+        title: Vigane mõistatus
         desc: >-
             The puzzle failed to load:
 
@@ -494,8 +494,8 @@ ingame:
     # This is shown in the top left corner and displays useful keybindings in
     # every situation
     keybindingsOverlay:
-        moveMap: Move
-        selectBuildings: Select area
+        moveMap: Liiguta
+        selectBuildings: Vali ala
         stopPlacement: Stop placement
         rotateBuilding: Rotate building
         placeMultiple: Place multiple
@@ -504,28 +504,28 @@ ingame:
         toggleHud: Toggle HUD
         placeBuilding: Place building
         createMarker: Create marker
-        delete: Delete
+        delete: Kustuta
         pasteLastBlueprint: Paste last blueprint
         lockBeltDirection: Enable belt planner
         plannerSwitchSide: Flip planner side
-        cutSelection: Cut
-        copySelection: Copy
-        clearBelts: Clear belts
-        clearSelection: Clear selection
-        pipette: Pipette
-        switchLayers: Switch layers
+        cutSelection: Lõika
+        copySelection: Kopeeri
+        clearBelts: Kustuta konveier
+        clearSelection: Puhasta valik
+        pipette: Pipett
+        switchLayers: Vaheta kihte
 
     # Names of the colors, used for the color blind mode
     colors:
-        red: Red
-        green: Green
-        blue: Blue
-        yellow: Yellow
+        red: Punane
+        green: Roheline
+        blue: Sinine
+        yellow: Kollane
         purple: Magenta
-        cyan: Cyan
-        white: White
-        black: Black
-        uncolored: Gray
+        cyan: Tsüaan
+        white: Valge
+        black: Must
+        uncolored: Hall
 
     # Everything related to placing buildings (I.e. as soon as you selected a building
     # from the toolbar)
@@ -666,19 +666,19 @@ ingame:
                 Press the switch to make it <strong>emit a truthy signal</strong> and thus activate the painter.<br><br>
                 PS: You don't have to connect all inputs! Try wiring only two.
 
-            1_2_hold_and_drag: Hold and drag
+            1_2_hold_and_drag: Hoia ja lohista
 
     # Connected miners
     connectedMiners:
-        one_miner: 1 Extractor
-        n_miners: <amount> Extractors
-        limited_items: Limited to <max_throughput>
+        one_miner: 1 Ekstraktor
+        n_miners: <amount> Ekstraktorit
+        limited_items: Piirang <max_throughput>
 
     # Pops up in the demo every few minutes
     watermark:
-        title: Demo version
-        desc: Click here to see the advantages of the full version!
-        get_on_steam: Get on Steam
+        title: Demoversioon
+        desc: Klõpsa siia, et näha täisversiooni eeliseid!
+        get_on_steam: Hangi Steam'is
 
     standaloneAdvantages:
         titleV2: >-
@@ -1142,15 +1142,15 @@ storyRewards:
 
     # Special reward, which is shown when there is no reward actually
     no_reward:
-        title: Next level
+        title: Järgmine tase
         desc: >-
             This level gave you no reward, but the next one will! <br><br> PS: Better not destroy your existing factory - You'll need <strong>all</strong> those shapes later to
             <strong>unlock upgrades</strong>!
 
     no_reward_freeplay:
-        title: Next level
+        title: Järgmine tase
         desc: >-
-            Congratulations!
+            Palju õnne!
 
     reward_freeplay:
         title: Freeplay
@@ -1160,19 +1160,19 @@ storyRewards:
             The HUB outputs the requested shape on the wires layer, so all you have to do is to analyze it and automatically configure your factory based on that.
 
     reward_demo_end:
-        title: End of Demo
+        title: Demo lõpp
         desc: >-
-            You have reached the end of the demo version!
+            Oled jõudnud  demoversiooni lõppu!
 
 mods:
-    title: Mods
+    title: Modid
 
-    author: Author
-    version: Version
-    modWebsite: Website
-    openFolder: Open Mods Folder
-    folderOnlyStandalone: Opening the mod folder is only possible when running the full version on Steam.
-    browseMods: Browse Mods
+    author: Autor
+    version: Versioon
+    modWebsite: Veebileht
+    openFolder: Ava modide kaust
+    folderOnlyStandalone: Modide kausta avamine on võimalik ainult Steam'is täisversiooni käitades.
+    browseMods: Sirvi Mode
 
     modsInfo: >-
         To install and manage mods, copy them to the mods folder (use the 'Open Mods Folder' button). Be sure to restart the game afterwards, otherwise the mods will not show up.
@@ -1394,40 +1394,40 @@ keybindings:
     hint: >-
         Tip: Be sure to make use of CTRL, SHIFT and ALT! They enable different placement options.
 
-    resetKeybindings: Reset
+    resetKeybindings: Lähtesta
 
     categoryLabels:
-        general: Application
-        ingame: Game
-        navigation: Navigating
-        placement: Placement
+        general: Rakendus
+        ingame: Mäng
+        navigation: Navigeerimine
+        placement: Paigutamine
         massSelect: Mass Select
-        buildings: Building Shortcuts
-        placementModifiers: Placement Modifiers
+        buildings: Ehitamise otseteed
+        placementModifiers: Paigutamise modifikaatorid
         mods: Provided by Mods
 
     mappings:
-        confirm: Confirm
-        back: Back
-        mapMoveUp: Move Up
-        mapMoveRight: Move Right
-        mapMoveDown: Move Down
-        mapMoveLeft: Move Left
-        mapMoveFaster: Move Faster
+        confirm: Kinnita
+        back: Tagasi
+        mapMoveUp: Liiguta üles
+        mapMoveRight: Liiguta paremale
+        mapMoveDown: Liiguta alla
+        mapMoveLeft: Liiguta vasakule
+        mapMoveFaster: Liiguta kiiremini
         centerMap: Center Map
 
-        mapZoomIn: Zoom in
-        mapZoomOut: Zoom out
-        createMarker: Create Marker
+        mapZoomIn: Suurenda
+        mapZoomOut: Vähenda
+        createMarker: Loo marker
 
         menuOpenShop: Upgrades
-        menuOpenStats: Statistics
+        menuOpenStats: Statistika
         menuClose: Close Menu
 
         toggleHud: Toggle HUD
         toggleFPSInfo: Toggle FPS and Debug Info
-        switchLayers: Switch layers
-        exportScreenshot: Export whole Base as Image
+        switchLayers: Vaheta kihte
+        exportScreenshot: Ekspordi kogu kaart pildina
 
         # --- Do not translate the values in this section
         belt: *belt
@@ -1489,11 +1489,11 @@ keybindings:
         showShapeTooltip: Show shape output tooltip
 
 about:
-    title: About this Game
+    title: Sellest mängust
     body: >-
-        This game is open source and developed by <a href="https://github.com/tobspr" target="_blank">Tobias Springer</a> (this is me).<br><br>
+        See avatud lähtekoodiga mäng on arendatud <a href="https://github.com/tobspr" target="_blank">Tobias Springer</a>'i poolt (see olen mina).<br><br>
 
-        If you want to contribute, check out <a href="<githublink>" target="_blank">shapez on GitHub</a>.<br><br>
+        Kui soovid panustada, vaata <a href="<githublink>" target="_blank">shapez GitHub'is</a>.<br><br>
 
         This game wouldn't have been possible without the great Discord community around my games - You should really join the <a href="<discordlink>" target="_blank">Discord server</a>!<br><br>
 
@@ -1502,7 +1502,7 @@ about:
         Finally, huge thanks to my best friend <a href="https://github.com/niklas-dahl" target="_blank">Niklas</a> - Without our Factorio sessions, this game would never have existed.
 
 changelog:
-    title: Changelog
+    title: Muudatuste ajalugu
 
 demo:
     features:
@@ -1548,7 +1548,7 @@ tips:
     - Serial execution is more efficient than parallel.
     - You will unlock more variants of buildings later in the game!
     - You can use <b>T</b> to switch between different variants.
-    - Symmetry is key!
+    - Võti on sümmeetria!
     - You can weave different tiers of tunnels.
     - Try to build compact factories - it will pay out!
     - The painter has a mirrored variant which you can select with <b>T</b>
@@ -1582,15 +1582,15 @@ tips:
     - Use <b>CTRL</b> + Click to select an area.
     - Building too close to the hub can get in the way of later projects.
     - The pin icon next to each shape in the upgrade list pins it to the screen.
-    - Mix all three primary colors to make white!
-    - You have an infinite map. Don't cramp your factory, expand!
-    - Also try Factorio! It's my favorite game.
-    - The quad cutter cuts clockwise, starting from the top right.
-    - You can download your savegames in the main menu!
-    - This game has a lot of useful keybindings! Be sure to check out the settings page.
-    - This game has a lot of settings, be sure to check them out!
+    - Valge saamiseks seda kokku kõik kolm põhivärvi!
+    - Sul on kasutata lõpmata suur kaart. Ära suru oma tehaseid tihedalt kokku, laiene!
+    - Proovi ka Factorio't! See on mu lemmikmäng.
+    - Neljane lõikur lõikab päripäeva, alustades paremast ülanurgast.
+    - Peamenüüst saad alla laadida oma mängu salvestused!
+    - Sellel mängul on palju funktsioone klahvivajutustega seotud. Vaata lähemalt seatetest.
+    - Sellel mängul on palju seadeid. Vaata järgi, mida need teevad!
     - Your hub marker has a small compass that shows which direction it is in!
-    - To clear belts, cut the area and then paste it at the same location.
+    - Konveierite puhastamiseks, lõika puhastatav ala ja kleebi see tagasi samasse kohta.
     - Press F4 to show your FPS and Tick Rate.
     - Press F4 twice to show the tile of your mouse and camera.
-    - You can click a pinned shape on the left side to unpin it.
+    - Vasakusse äärde kinnitatud kujundi saad eemaldada, klõpsates selle vasakut serva.
