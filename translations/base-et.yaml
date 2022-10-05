@@ -30,11 +30,11 @@ steamPage:
     intro: >-
         Kas sulle meeldivad automatiseerimismängid? Sel juhul oled õiges kohas!
 
-        shapez is a relaxed game in which you have to build factories for the automated production of geometric shapes. As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.
+        shapez on rahulik mäng, kus sa pead ehitama tehaseid geomeetriliste kujundite automaatseks tootmiseks. Taseme tõustes muutuvad kujundid järjest keerulisemaks ja tehast tuleb lõputul kaardil laiendada.
 
-        And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling! While you only have to process shapes at the beginning, you will later have to color them - by extracting and mixing colors!
+        Justkui sellest ei piisaks, vajadus kujundute järele kasvab eksponentsiaalselt - ainus, mis aitab, on skaleerimine! Alguses on vaja töödelda ainult kujundeid, aga hiljem tuleb neid ka värvida, kaevandades ja segades värve.
 
-        Buying the game on Steam gives you access to the full version, but you can also play a demo at shapez first and decide later!
+        Selle mängu täisversiooni mängimiseks on vaja mäng Steam'is osta, aga shapez demoversiooni on võimalik ka veebilehitsejas mängida ja ostu üle hiljem otsustada.
 
     what_others_say: Mida inimesed räägivad shapez'ist
 
@@ -101,26 +101,27 @@ demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
     title: Demo
     titleV2: >-
-        Play the full version now for:
+        Mängi täisversiooni:
 
     intro: >-
-        Get the full game <strong>now</strong> to unlock:<ul>
-            <li>All 26 levels + infinite Freeplay</li>
-            <li>22 new buildings</li>
-            <li>Mod support</li>
-            <li>Achievements</li>
-            <li>Dark Mode</li>
-            <li>... and a lot more!</li>
+        Hangi täisversioon <strong>kohe</strong>, et saada:<ul>
+
+            <li>mängida kõiki 26 taset + lõpmatu vabamäng</li>
+            <li>22 uut ehitist</li>
+            <li>Mod tugi</li>
+            <li>Saavutused</li>
+            <li>Tume režiim</li>
+            <li>... ja rohkem!</li>
         </ul>
     playtimeDisclaimer: >-
-        The full version contains more than <strong>20 hours of additional content</strong>!
+        Täisversioon sisaldab rohkem kui <strong>20 tundi täiendavat sisu</strong>!
 
     playtimeDisclaimerDownload: >-
-        You can continue your savegame in the full version! Click <strong>here</strong> to download your savegame.
+        Võid oma salvestatud mängu jätkata täisversioonis! Klõpsa <strong>siia</strong>, et laadida alla oma mängu salvestus.
 
     playerCount: >-
-        <playerCount> players like you are playing shapez on Steam right now
-    untilEndOfDemo: Until end of demo
+        Steam'is mängib shapes'i <playerCount> mängijat
+    untilEndOfDemo: Demo lõpuni
 
 mainMenu:
     play: Mängi
@@ -142,7 +143,7 @@ mainMenu:
 
     # This is shown when using firefox and other browsers which are not supported.
     browserWarning: >-
-        Sorry, but the game is known to run slowly on your browser! Get the full version or download Google Chrome for the full experience.
+        Andestust, aga on teada, et see mäng jookseb sinu brauseris väga aeglaselt! Parima kogemuse saamiseks hangi täisversioon või Chrome'i põhinev veebilehitseja.
 
     savegameLevel: Tase <x>
     savegameLevelUnknown: Teadmata tase
@@ -152,7 +153,7 @@ mainMenu:
 
     puzzleDlcText: >-
         Kas sulle meeldib tehaseid optimeeriga ja kompaktsemaks teha?
-        Laagi alla Puzzle DLC Steam'is, et veel paremini aega viita!
+        Laadi alla Puzzle DLC Steam'is, et veel paremini aega viita!
     puzzleDlcWishlist: Lisa soovinimekirja!
     puzzleDlcViewNow: Vaata DLC
 
@@ -163,7 +164,7 @@ mainMenu:
 
 puzzleMenu:
     play: Mängi
-    edit: Edit
+    edit: Muuda
     title: Mõistatuse režiim
     createPuzzle: Loo mõistatud
     loadPuzzle: Laadi
@@ -176,8 +177,8 @@ puzzleMenu:
     categories:
         levels: Tasemed
         new: Uus
-        top-rated: Top Rated
-        mine: Created
+        top-rated: Kõrgelt hinnatud
+        mine: Loodud
         easy: Lihtne
         medium: Keskmine
         hard: Raske
@@ -296,7 +297,7 @@ dialogs:
         desc: You can only have one savegame at a time in the demo version. Please remove the existing one or get the full version on Steam!
 
     updateSummary:
-        title: New update!
+        title: Uus värskendus!
         desc: >-
             Here are the changes since you last played:
 
